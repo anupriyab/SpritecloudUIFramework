@@ -1,0 +1,18 @@
+2024-03-12 08:32:54,646 - Test_UIaction.py:[15] - [INFO] - Test Sign up started
+2024-03-12 08:32:55,348 - BasePage.py:[24] - [INFO] - clicking onthe elementHomepage_DynamicIDLink_Xpath
+2024-03-12 08:33:01,349 - Test_UIaction.py:[20] - [INFO] - Test Sign up ended
+2024-03-12 08:33:18,174 - Test_UIaction.py:[15] - [INFO] - Test Sign up started
+2024-03-12 08:33:19,207 - BasePage.py:[24] - [INFO] - clicking onthe elementHomepage_DynamicIDLink_Xpath
+2024-03-12 08:33:25,209 - Test_UIaction.py:[20] - [INFO] - Test Sign up ended
+2024-03-12 08:40:57,751 - Test_UIaction.py:[25] - [INFO] - Test Sign up started
+2024-03-12 08:40:58,504 - BasePage.py:[24] - [INFO] - clicking onthe elementHomePage_SampleAppLink_Xpath
+2024-03-12 08:40:58,594 - BasePage.py:[38] - [INFO] -  entering  i nthe elementSampleAppPage_UsernameTxt_Xpathvalue ---anupriya
+2024-03-12 08:40:58,654 - BasePage.py:[38] - [INFO] -  entering  i nthe elementSampleAppPage_PswdTxt_Xpathvalue ---pwd
+2024-03-12 08:40:58,708 - BasePage.py:[24] - [INFO] - clicking onthe elementSampleAppPage_LoginBtn_Xpath
+2024-03-12 08:41:04,710 - Test_UIaction.py:[32] - [INFO] - Test Sign up ended
+2024-03-12 08:41:19,364 - Test_UIaction.py:[25] - [INFO] - Test Sign up started
+2024-03-12 08:41:20,387 - BasePage.py:[24] - [INFO] - clicking onthe elementHomePage_SampleAppLink_Xpath
+2024-03-12 08:41:20,469 - BasePage.py:[38] - [INFO] -  entering  i nthe elementSampleAppPage_UsernameTxt_Xpathvalue ---anupriya
+2024-03-12 08:41:20,482 - BasePage.py:[38] - [INFO] -  entering  i nthe elementSampleAppPage_PswdTxt_Xpathvalue ---pwd
+2024-03-12 08:41:20,706 - BasePage.py:[24] - [INFO] - clicking onthe elementSampleAppPage_LoginBtn_Xpath
+2024-03-12 08:41:26,708 - Test_UIaction.py:[32] - [INFO] - Test Sign up ended
