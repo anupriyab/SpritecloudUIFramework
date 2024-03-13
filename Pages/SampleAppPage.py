@@ -7,6 +7,9 @@ class SampleAppPage(BasePage):
         super().__init__(driver)
 
     def doLogin(self, username, pswd):
+        """
+        Performs Login function
+        """
         self.enterValue("SampleAppPage_UsernameTxt_Xpath", username)
         self.enterValue("SampleAppPage_PswdTxt_Xpath", pswd)
         self.click("SampleAppPage_LoginBtn_Xpath")

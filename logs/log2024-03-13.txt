@@ -1,0 +1,104 @@
+2024-03-13 04:56:10,039 - Test_UIaction.py:[21] - [INFO] - Test  Handling Dynamic ID started
+2024-03-13 04:56:10,839 - BasePage.py:[24] - [INFO] - clicking onthe elementHomepage_DynamicIDLink_Xpath
+2024-03-13 04:56:10,887 - BasePage.py:[24] - [INFO] - clicking onthe elementDynamicIDPage_Button_Xpath
+2024-03-13 04:56:17,902 - Test_UIaction.py:[28] - [INFO] - Test Handling Dynamic ID ended
+2024-03-13 04:56:33,432 - Test_UIaction.py:[21] - [INFO] - Test  Handling Dynamic ID started
+2024-03-13 04:56:34,371 - BasePage.py:[24] - [INFO] - clicking onthe elementHomepage_DynamicIDLink_Xpath
+2024-03-13 04:56:34,588 - BasePage.py:[24] - [INFO] - clicking onthe elementDynamicIDPage_Button_Xpath
+2024-03-13 04:56:41,645 - Test_UIaction.py:[28] - [INFO] - Test Handling Dynamic ID ended
+2024-03-13 05:01:55,720 - Test_UIaction.py:[21] - [INFO] - Test  Handling Dynamic ID started
+2024-03-13 05:01:56,364 - BasePage.py:[24] - [INFO] - clicking onthe elementHomepage_DynamicIDLink_Xpath
+2024-03-13 05:01:56,420 - BasePage.py:[24] - [INFO] - clicking onthe elementDynamicIDPage_Button_Xpath
+2024-03-13 05:02:03,435 - Test_UIaction.py:[28] - [INFO] - Test Handling Dynamic ID ended
+2024-03-13 05:02:18,084 - Test_UIaction.py:[21] - [INFO] - Test  Handling Dynamic ID started
+2024-03-13 05:02:18,926 - BasePage.py:[24] - [INFO] - clicking onthe elementHomepage_DynamicIDLink_Xpath
+2024-03-13 05:02:19,144 - BasePage.py:[24] - [INFO] - clicking onthe elementDynamicIDPage_Button_Xpath
+2024-03-13 05:02:26,204 - Test_UIaction.py:[28] - [INFO] - Test Handling Dynamic ID ended
+2024-03-13 05:25:38,813 - BasePage.py:[24] - [INFO] - clicking onthe elementHomePage_AjaxLink_Xpath
+2024-03-13 05:25:38,882 - BasePage.py:[24] - [INFO] - clicking onthe elementAjaxPage_TriggerBtn_Xpath
+2024-03-13 05:25:50,662 - BasePage.py:[24] - [INFO] - clicking onthe elementHomePage_AjaxLink_Xpath
+2024-03-13 05:25:50,899 - BasePage.py:[24] - [INFO] - clicking onthe elementAjaxPage_TriggerBtn_Xpath
+2024-03-13 05:30:31,147 - BasePage.py:[24] - [INFO] - clicking onthe elementHomePage_AjaxLink_Xpath
+2024-03-13 05:30:31,211 - BasePage.py:[24] - [INFO] - clicking onthe elementAjaxPage_TriggerBtn_Xpath
+2024-03-13 05:30:43,011 - BasePage.py:[24] - [INFO] - clicking onthe elementHomePage_AjaxLink_Xpath
+2024-03-13 05:30:43,253 - BasePage.py:[24] - [INFO] - clicking onthe elementAjaxPage_TriggerBtn_Xpath
+2024-03-13 05:33:01,084 - BasePage.py:[24] - [INFO] - clicking onthe elementHomePage_AjaxLink_Xpath
+2024-03-13 05:33:01,144 - BasePage.py:[24] - [INFO] - clicking onthe elementAjaxPage_TriggerBtn_Xpath
+2024-03-13 05:33:12,716 - BasePage.py:[24] - [INFO] - clicking onthe elementHomePage_AjaxLink_Xpath
+2024-03-13 05:33:12,956 - BasePage.py:[24] - [INFO] - clicking onthe elementAjaxPage_TriggerBtn_Xpath
+2024-03-13 05:37:18,112 - BasePage.py:[24] - [INFO] - clicking onthe elementHomePage_AjaxLink_Xpath
+2024-03-13 05:37:18,171 - BasePage.py:[24] - [INFO] - clicking onthe elementAjaxPage_TriggerBtn_Xpath
+2024-03-13 05:37:33,384 - BasePage.py:[24] - [INFO] - clicking onthe elementHomePage_AjaxLink_Xpath
+2024-03-13 05:37:33,617 - BasePage.py:[24] - [INFO] - clicking onthe elementAjaxPage_TriggerBtn_Xpath
+2024-03-13 05:44:03,520 - BasePage.py:[24] - [INFO] - clicking onthe elementHomePage_AjaxLink_Xpath
+2024-03-13 05:44:03,627 - BasePage.py:[24] - [INFO] - clicking onthe elementAjaxPage_TriggerBtn_Xpath
+2024-03-13 05:44:19,653 - BasePage.py:[24] - [INFO] - clicking onthe elementHomePage_AjaxLink_Xpath
+2024-03-13 05:44:19,882 - BasePage.py:[24] - [INFO] - clicking onthe elementAjaxPage_TriggerBtn_Xpath
+2024-03-13 05:45:11,968 - BasePage.py:[24] - [INFO] - clicking onthe elementHomePage_AjaxLink_Xpath
+2024-03-13 05:45:12,033 - BasePage.py:[24] - [INFO] - clicking onthe elementAjaxPage_TriggerBtn_Xpath
+2024-03-13 05:45:27,959 - BasePage.py:[24] - [INFO] - clicking onthe elementHomePage_AjaxLink_Xpath
+2024-03-13 05:45:28,197 - BasePage.py:[24] - [INFO] - clicking onthe elementAjaxPage_TriggerBtn_Xpath
+2024-03-13 05:45:51,316 - BasePage.py:[24] - [INFO] - clicking onthe elementHomePage_AjaxLink_Xpath
+2024-03-13 05:45:51,397 - BasePage.py:[24] - [INFO] - clicking onthe elementAjaxPage_TriggerBtn_Xpath
+2024-03-13 05:46:07,558 - BasePage.py:[24] - [INFO] - clicking onthe elementHomePage_AjaxLink_Xpath
+2024-03-13 05:46:07,799 - BasePage.py:[24] - [INFO] - clicking onthe elementAjaxPage_TriggerBtn_Xpath
+2024-03-13 05:49:00,828 - BasePage.py:[24] - [INFO] - clicking onthe elementHomePage_AjaxLink_Xpath
+2024-03-13 05:49:00,927 - BasePage.py:[24] - [INFO] - clicking onthe elementAjaxPage_TriggerBtn_Xpath
+2024-03-13 05:49:12,242 - BasePage.py:[24] - [INFO] - clicking onthe elementHomePage_AjaxLink_Xpath
+2024-03-13 05:49:12,471 - BasePage.py:[24] - [INFO] - clicking onthe elementAjaxPage_TriggerBtn_Xpath
+2024-03-13 05:50:34,984 - BasePage.py:[24] - [INFO] - clicking onthe elementHomePage_AjaxLink_Xpath
+2024-03-13 05:50:35,045 - BasePage.py:[24] - [INFO] - clicking onthe elementAjaxPage_TriggerBtn_Xpath
+2024-03-13 05:50:46,934 - BasePage.py:[24] - [INFO] - clicking onthe elementHomePage_AjaxLink_Xpath
+2024-03-13 05:50:47,168 - BasePage.py:[24] - [INFO] - clicking onthe elementAjaxPage_TriggerBtn_Xpath
+2024-03-13 05:56:43,620 - BasePage.py:[24] - [INFO] - clicking onthe elementHomePage_AjaxLink_Xpath
+2024-03-13 05:56:43,684 - BasePage.py:[24] - [INFO] - clicking onthe elementAjaxPage_TriggerBtn_Xpath
+2024-03-13 05:57:14,832 - BasePage.py:[24] - [INFO] - clicking onthe elementHomePage_AjaxLink_Xpath
+2024-03-13 05:57:15,079 - BasePage.py:[24] - [INFO] - clicking onthe elementAjaxPage_TriggerBtn_Xpath
+2024-03-13 05:58:30,541 - BasePage.py:[24] - [INFO] - clicking onthe elementHomePage_AjaxLink_Xpath
+2024-03-13 05:58:30,600 - BasePage.py:[24] - [INFO] - clicking onthe elementAjaxPage_TriggerBtn_Xpath
+2024-03-13 05:59:01,020 - BasePage.py:[24] - [INFO] - clicking onthe elementHomePage_AjaxLink_Xpath
+2024-03-13 05:59:01,253 - BasePage.py:[24] - [INFO] - clicking onthe elementAjaxPage_TriggerBtn_Xpath
+2024-03-13 06:03:48,483 - BasePage.py:[24] - [INFO] - clicking onthe elementHomePage_AjaxLink_Xpath
+2024-03-13 06:03:48,557 - BasePage.py:[24] - [INFO] - clicking onthe elementAjaxPage_TriggerBtn_Xpath
+2024-03-13 06:04:19,406 - BasePage.py:[24] - [INFO] - clicking onthe elementHomePage_AjaxLink_Xpath
+2024-03-13 06:04:19,647 - BasePage.py:[24] - [INFO] - clicking onthe elementAjaxPage_TriggerBtn_Xpath
+2024-03-13 07:22:13,939 - Test_UIaction.py:[26] - [INFO] - Test  Handling Dynamic ID started
+2024-03-13 07:22:14,739 - BasePage.py:[24] - [INFO] - clicking onthe elementHomepage_DynamicIDLink_Xpath
+2024-03-13 07:22:14,793 - BasePage.py:[24] - [INFO] - clicking onthe elementDynamicIDPage_Button_Xpath
+2024-03-13 07:22:21,807 - Test_UIaction.py:[33] - [INFO] - Test Handling Dynamic ID ended
+2024-03-13 07:22:21,807 - Test_UIaction.py:[39] - [INFO] - Test Sample App started
+2024-03-13 07:22:22,534 - BasePage.py:[24] - [INFO] - clicking onthe elementHomePage_SampleAppLink_Xpath
+2024-03-13 07:22:22,638 - BasePage.py:[38] - [INFO] -  entering  i nthe elementSampleAppPage_UsernameTxt_Xpathvalue ---anupriya
+2024-03-13 07:22:22,703 - BasePage.py:[38] - [INFO] -  entering  i nthe elementSampleAppPage_PswdTxt_Xpathvalue ---pwd
+2024-03-13 07:22:22,768 - BasePage.py:[24] - [INFO] - clicking onthe elementSampleAppPage_LoginBtn_Xpath
+2024-03-13 07:22:28,816 - Test_UIaction.py:[49] - [INFO] - Test Sample App ended
+2024-03-13 07:22:45,005 - Test_UIaction.py:[26] - [INFO] - Test  Handling Dynamic ID started
+2024-03-13 07:22:46,040 - BasePage.py:[24] - [INFO] - clicking onthe elementHomepage_DynamicIDLink_Xpath
+2024-03-13 07:22:46,266 - BasePage.py:[24] - [INFO] - clicking onthe elementDynamicIDPage_Button_Xpath
+2024-03-13 07:22:53,345 - Test_UIaction.py:[33] - [INFO] - Test Handling Dynamic ID ended
+2024-03-13 07:22:53,351 - Test_UIaction.py:[39] - [INFO] - Test Sample App started
+2024-03-13 07:22:54,234 - BasePage.py:[24] - [INFO] - clicking onthe elementHomePage_SampleAppLink_Xpath
+2024-03-13 07:22:54,309 - BasePage.py:[38] - [INFO] -  entering  i nthe elementSampleAppPage_UsernameTxt_Xpathvalue ---anupriya
+2024-03-13 07:22:54,326 - BasePage.py:[38] - [INFO] -  entering  i nthe elementSampleAppPage_PswdTxt_Xpathvalue ---pwd
+2024-03-13 07:22:54,542 - BasePage.py:[24] - [INFO] - clicking onthe elementSampleAppPage_LoginBtn_Xpath
+2024-03-13 07:23:00,580 - Test_UIaction.py:[49] - [INFO] - Test Sample App ended
+2024-03-13 07:23:58,238 - Test_UIaction.py:[26] - [INFO] - Test  Handling Dynamic ID started
+2024-03-13 07:23:58,880 - BasePage.py:[24] - [INFO] - clicking onthe elementHomepage_DynamicIDLink_Xpath
+2024-03-13 07:23:58,935 - BasePage.py:[24] - [INFO] - clicking onthe elementDynamicIDPage_Button_Xpath
+2024-03-13 07:24:05,959 - Test_UIaction.py:[33] - [INFO] - Test Handling Dynamic ID ended
+2024-03-13 07:24:05,972 - Test_UIaction.py:[39] - [INFO] - Test Sample App started
+2024-03-13 07:24:06,765 - BasePage.py:[24] - [INFO] - clicking onthe elementHomePage_SampleAppLink_Xpath
+2024-03-13 07:24:06,880 - BasePage.py:[38] - [INFO] -  entering  i nthe elementSampleAppPage_UsernameTxt_Xpathvalue ---anupriya
+2024-03-13 07:24:06,944 - BasePage.py:[38] - [INFO] -  entering  i nthe elementSampleAppPage_PswdTxt_Xpathvalue ---pwd
+2024-03-13 07:24:06,991 - BasePage.py:[24] - [INFO] - clicking onthe elementSampleAppPage_LoginBtn_Xpath
+2024-03-13 07:24:13,015 - Test_UIaction.py:[49] - [INFO] - Test Sample App ended
+2024-03-13 07:24:27,641 - Test_UIaction.py:[26] - [INFO] - Test  Handling Dynamic ID started
+2024-03-13 07:24:28,644 - BasePage.py:[24] - [INFO] - clicking onthe elementHomepage_DynamicIDLink_Xpath
+2024-03-13 07:24:28,869 - BasePage.py:[24] - [INFO] - clicking onthe elementDynamicIDPage_Button_Xpath
+2024-03-13 07:24:35,934 - Test_UIaction.py:[33] - [INFO] - Test Handling Dynamic ID ended
+2024-03-13 07:24:35,961 - Test_UIaction.py:[39] - [INFO] - Test Sample App started
+2024-03-13 07:24:36,946 - BasePage.py:[24] - [INFO] - clicking onthe elementHomePage_SampleAppLink_Xpath
+2024-03-13 07:24:37,019 - BasePage.py:[38] - [INFO] -  entering  i nthe elementSampleAppPage_UsernameTxt_Xpathvalue ---anupriya
+2024-03-13 07:24:37,039 - BasePage.py:[38] - [INFO] -  entering  i nthe elementSampleAppPage_PswdTxt_Xpathvalue ---pwd
+2024-03-13 07:24:37,265 - BasePage.py:[24] - [INFO] - clicking onthe elementSampleAppPage_LoginBtn_Xpath
+2024-03-13 07:24:43,291 - Test_UIaction.py:[49] - [INFO] - Test Sample App ended
