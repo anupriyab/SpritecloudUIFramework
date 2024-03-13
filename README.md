@@ -41,4 +41,7 @@ This project using the following languages and frameworks:
   pytest -s -v  --alluredir="./allure_report"
 
 ***To create Report instantly:***
-    allure serve . /allure-report  
+    allure serve . /allure-report 
+
+  **To view the Generated Report:**
+      https://inquisitive-crostata-a63b8a.netlify.app/
