@@ -3,6 +3,9 @@ from Models.user import User
 
 
 def test_add_user():
+    """
+    Test create user API
+    """
     user_data = {
         "id": 12345,
         "username": "anu",
@@ -17,4 +20,7 @@ def test_add_user():
 
 
 def test_get_user():
+    """
+       Test get user API
+    """
     UserOperations.get_user("anu")

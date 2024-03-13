@@ -10,6 +10,9 @@ class UserOperations:
 
     @staticmethod
     def add_user(user):
+        """
+        Create new user
+        """
         endpoint = f"{UserOperations.BASE_URL}/user"
         user_data = user.__dict__
         response = requests.post(endpoint, json=user_data)
@@ -20,6 +23,9 @@ class UserOperations:
 
     @staticmethod
     def get_user(username):
+        """
+        Get user by username
+        """
         endpoint = f"{UserOperations.BASE_URL}/user/{username}"
         response = requests.get(endpoint)
         if response.status_code == 200:

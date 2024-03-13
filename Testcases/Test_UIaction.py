@@ -45,6 +45,7 @@ class Test_uiaction(Test_BaseTest):
                                                                                  "SampleAppPAge_Loginstatus_Xpath")).text
 
         assert elementText == "Welcome, anupriya!"
+        homepage.navigateBackToHomePage()
         time.sleep(6)
         log.logger.info("Test Sample App ended")
 
